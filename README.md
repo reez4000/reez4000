@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reez4000
 - 👀 I’m big data engineer and administrator | deep learning enthusiast
 - 🌱 I’m developing skills in python (pytorch, tensorflow, opencv, keras)
-- 💞️ Areas of interests: Data, big data, good data, linux, deep learning, especially on computer vision facilities, ai-based vulnerability detection / monitoring systems, and automation. DevOps practices as well. 
+- 💞️ Areas of interests: Data, big data, good data, linux, deep learning, especially on computer vision facilities, ai-based vulnerability detection / monitoring systems, and automation. DevOps practices as well. Amateur astronomer, developing skills in data-driven astronomy (radio astronomy). Roboticist ethusiast (ROS).
 - 📫 How to reach me? It won't be difficult. Email me: jarek.nalewajko@gmail.com
 
 <!---
