@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reez4000
-- 👀 I’m big data engineer and administrator | deep learning enthusiast
+- 👀 Big data administrator and engineer | deep learning enthusiast
 - 🌱 I’m developing skills in python (pytorch, tensorflow, opencv, keras)
 - 💞️ Areas of interests: Data, big data, good data, linux, deep learning, especially on computer vision facilities, ai-based vulnerability detection / monitoring systems, and automation. DevOps practices as well. 
   Amateur astronomer, developing skills in data-driven astronomy (radio astronomy). Roboticist ethusiast (ROS).
